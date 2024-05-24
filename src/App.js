@@ -11,20 +11,20 @@ import "swiper/css/pagination";
 import './App.css';
 
 function App() {
-    const [loading, setLoading] = useState(false);
-    useEffect(() => {
-      setLoading(true);
-      setTimeout(() => {
-        setLoading(false);
-      }, 3000);
-    }, [])
+    // const [loading, setLoading] = useState(false);
+    // useEffect(() => {
+    //   setLoading(true);
+    //   setTimeout(() => {
+    //     setLoading(false);
+    //   }, 3000);
+    // }, [])
     return (
       <BrowserRouter>
       
-        {loading ?
+        {/* {loading ?
           <div className="preloaderr">
             <ScaleLoader color={'#f87765'} loading={loading} height={100} margin={10} />
-          </div> :
+          </div> : */}
         
           <>
             <NNavBar/>
@@ -33,7 +33,7 @@ function App() {
               <Route path="/Projects" element={<Projects />} />
             </Routes>
           </>
-}
+
       </BrowserRouter>
     );
   }
