@@ -7,6 +7,8 @@
             "id": "1",
             "title": "First Project",
             "description": "Ecommerce website made with React Js ",
+            "link": "https://ecommece-clone.vercel.app/",
+
             "photo": "/Images/slider/ecommercehomepage.png"
         },
         {
