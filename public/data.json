@@ -2,76 +2,36 @@
 {
     
     "projects": [
+      
         {
             "id": "1",
             "title": "First Project",
-            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Architecto facere vero consectetur itaque molestiae perspiciatis porro alias iure exercitationem quibusdam?"
-         
-
+            "description": "Ecommerce website made with React Js ",
+            "photo": "/Images/slider/ecommercehomepage.png"
         },
         {
             "id": "2",
             "title": "Second Project",
-            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Architecto facere vero consectetur itaque molestiae perspiciatis porro alias iure exercitationem quibusdam?",
-            "link": "https://ecommece-clone.vercel.app/",
-            "photo": "/Images/slider/ecommercehomepage.png"
+            "description": "Shipping website made with Html & Css",
+            "link": "https://comp2-5b56nlqx5-mohamedaymann38.vercel.app/",
+            
+            "photo": "/images/slider/86e0983c-0bf5-46be-802a-a7ebc1a3c84e.jpg"
         },
         {
             "id": "3",
             "title": "Third Project",
-            "description": "Lorem ipsum dolor Architecto facere vero consectetur itaque molestiae perspiciatis porro alias iure exercitationem quibusdam?",
-            "link": "https://criativo-qz54ozy2a-mohamedaymann38.vercel.app ",
-            
+            "description": "Creative design website made with Html & Css ",
+            "link": "https://criativo-omega.vercel.app/",
             "photo": "/Images/slider/1-Home-Company.jpg"
         },
         {
             "id": "4",
             "title": "Fourth Project",
-            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Architecto facere vero consectetur itaque molestiae perspiciatis porro alias iure exercitationem quibusdam?",
-            "link": "https://comp2-5b56nlqx5-mohamedaymann38.vercel.app/",
-            "photo": "/images/slider/86e0983c-0bf5-46be-802a-a7ebc1a3c84e.jpg"
-        },
-        {
-            "id": "5",
-            "title": "Fifth Project",
-            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Architecto facere vero consectetur itaque molestiae perspiciatis porro alias iure exercitationem quibusdam?",
-            "link": "https://modest-ramanujan-f625b4.netlify.app/",
-            "photo": "/Images/slider/1-Home-Company.jpg"
-        },
-        {
-            "id": "6",
-            "title": "Sixth Project",
-            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Architecto facere vero consectetur itaque molestiae perspiciatis porro alias iure exercitationem quibusdam?",
-            "link": "https://modest-ramanujan-f625b4.netlify.app/",
-            "photo": "/Images/slider/1-Home-Company.jpg"
-        },
-        {
-            "id": "7",
-            "title": "Seventh Project",
-            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Architecto facere vero consectetur itaque molestiae perspiciatis porro alias iure exercitationem quibusdam?",
-            "link": "https://modest-ramanujan-f625b4.netlify.app/",
-            "photo": "/Images/slider/1-Home-Company.jpg"
-        },
-        {
-            "id": "8",
-            "title": "Eighth Project",
-            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Architecto facere vero consectetur itaque molestiae perspiciatis porro alias iure exercitationem quibusdam?",
-            "link": "https://modest-ramanujan-f625b4.netlify.app/",
-            "photo": "/Images/slider/1-Home-Company.jpg"
-        },
-        {
-            "id": "9",
-            "title": "Ninth Project",
-            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Architecto facere vero consectetur itaque molestiae perspiciatis porro alias iure exercitationem quibusdam?",
-            "link": "https://modest-ramanujan-f625b4.netlify.app/",
-            "photo": "/Images/slider/1-Home-Company.jpg"
-        },
-        {
-            "id": "10",
-            "title": "Tenth Project",
-            "description": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Architecto facere vero consectetur itaque molestiae perspiciatis porro alias iure exercitationem quibusdam?",
-            "link": "https://modest-ramanujan-f625b4.netlify.app/",
-            "photo": "/Images/slider/1-Home-Company.jpg"
+            "description": "Facebook clone made with Html & Css",
+            "link": "https://facebook-clone-nu-nine.vercel.app/",
+            "photo": "/Images/slider/facebookclone.png"
         }
+
+
     ]
 }

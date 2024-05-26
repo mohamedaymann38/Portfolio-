@@ -565,7 +565,7 @@ footer .copyright p:nth-child(2) {
 .allprojectsec .col-md-4 div img {
   width: 100%;
   border-radius: 2%;
-
+height: 350px;
 }
 
 .allprojectsec .col-md-4 div h5 {

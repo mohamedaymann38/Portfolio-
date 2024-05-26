@@ -109,7 +109,7 @@ const sendEmail = (e) => {
         </div>
         <Swiper
           slidesPerView={1}
-          spaceBetween={30}
+          spaceBetween={10}
           freeMode={true}
           pagination={{
             clickable: true,
@@ -127,7 +127,7 @@ const sendEmail = (e) => {
           modules={[FreeMode, Pagination]}
           className="mySwiper wow fadeInUp" data-wow-duration="2s" data-wow-delay="0.5s"
         >
-          {projects.slice(1, 6).map((project) => (
+          {projects.slice(0,4).map((project) => (
             <SwiperSlide key={project.id}><a href={project.link} target="_blank"><img src={project.photo} alt="" /></a></SwiperSlide>
           ))}
         </Swiper>
@@ -210,9 +210,9 @@ const sendEmail = (e) => {
           <Row className="align-items-center">
             <Col md={6} sm={12} className="wow slideInLeft" data-wow-duration="2s" data-wow-delay="0.1s">
               <div>
-                <p><span>Email:</span> info@gmail.com</p>
-                <p><span>Phone:</span> 0121133133131</p>
-                <p><span>Address:</span> 23 street newyork</p>
+                <p><span>Email:</span> mohamedaymann38@gmail.com</p>
+                <p><span>Phone:</span>(+20)1282268321</p>
+                <p><span>Address:</span>6th of october city </p>
               </div>
             </Col>
             <Col md={6} sm={12} className="wow bounceInRight" data-wow-duration="2s" data-wow-delay="0.3s">
