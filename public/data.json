@@ -12,26 +12,25 @@
         {
             "id": "2",
             "title": "Second Project",
+            "description": "Facebook clone made with Html & Css",
+            "link": "https://facebook-clone-nu-nine.vercel.app/",
+            "photo": "/Images/slider/facebookclone.png"
+        },
+        {
+            "id": "3",
+            "title": "Third Project",
             "description": "Shipping website made with Html & Css",
             "link": "https://comp2-5b56nlqx5-mohamedaymann38.vercel.app/",
             
             "photo": "/Images/slider/shipping.jpg"
         },
         {
-            "id": "3",
-            "title": "Third Project",
+            "id": "4",
+            "title": "Fourth Project",
             "description": "Creative design website made with Html & Css ",
             "link": "https://criativo-omega.vercel.app/",
             "photo": "/Images/slider/1-Home-Company.jpg"
-        },
-        {
-            "id": "4",
-            "title": "Fourth Project",
-            "description": "Facebook clone made with Html & Css",
-            "link": "https://facebook-clone-nu-nine.vercel.app/",
-            "photo": "/Images/slider/facebookclone.png"
         }
-
 
     ]
 }
