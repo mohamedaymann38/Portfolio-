@@ -127,7 +127,7 @@ const sendEmail = (e) => {
           modules={[FreeMode, Pagination]}
           className="mySwiper wow fadeInUp" data-wow-duration="2s" data-wow-delay="0.5s"
         >
-          {projects.slice(0,4).map((project) => (
+          {projects.slice(0,6).map((project) => (
             <SwiperSlide key={project.id}><a href={project.link} target="_blank"><img src={project.photo} alt="" /></a></SwiperSlide>
           ))}
         </Swiper>
